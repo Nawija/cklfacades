@@ -3,7 +3,6 @@
  */
 
 module.exports = {
-    pathPrefix: "/CKL-Facades",
     siteMetadata: {
         title: ``,
         description: `Technical and design services to the building envelope and facade industry`,
